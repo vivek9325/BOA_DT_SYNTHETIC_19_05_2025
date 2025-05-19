@@ -8,3 +8,14 @@
    14  chmod 777 dynatrace-easytravel-linux-x86_64.jar
    15  ll
    16  history
+
+
+
+  7  java -jar dynatrace-easytravel-linux-x86_64.jar
+    8  ll
+   
+   10  cd easytravel-2.0.0-x64/
+   11  ll
+   12  cd weblauncher/
+ 
+   15  ./weblauncher.sh &
