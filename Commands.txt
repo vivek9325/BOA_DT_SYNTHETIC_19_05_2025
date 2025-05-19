@@ -1,0 +1,10 @@
+    3 wget https://etinstallers.demoability.dynatracelabs.com/latest/dynatrace-easytravel-linux-x86_64.jar
+    4  ll
+    5  sudo apt update
+    8  apt install openjdk-8-jdk -y
+    10  apt upgrade -y
+   12  java -version
+   13  ll
+   14  chmod 777 dynatrace-easytravel-linux-x86_64.jar
+   15  ll
+   16  history
