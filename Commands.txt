@@ -25,3 +25,13 @@
 ps -au | grep com.dynatrace.easytravel.customer.frontend.rest.jar easytravel
 
 kill -9 process_id
+
+------------------------------------------------------------------------------------------
+
+Status of OneAgent ---- systemctl status oneagent
+
+start oneagent --- systemctl start oneagent
+
+Stop oneAgent --- systemctl stop oneagent
+
+--------------------------------------------------------------------------------------------------------------
